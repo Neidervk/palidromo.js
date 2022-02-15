@@ -1,5 +1,5 @@
-// # palidromo.js
-//Identificador de palidromos
+# palidromo.js
+Identificador de palidromos
 
 let str = prompt("Por favor escribe tu frase") 
        
